@@ -24,7 +24,9 @@ Our test model has parameters of 23.5M and FLOPs of 1.56G and takes about 6.8 ms
 
 You can use the following model to output results directly.
 Here is our parameters： 
+
 baidu link: https://pan.baidu.com/s/1hq-bJyNU_fIFrTWg1A1VoA   passward: qsp3
+
 The "FGSC-23_save_model.zip" used for FGSC-23 and the "DOTA_save_model.zip" used for DOTA.
 
 ## Train
@@ -33,6 +35,7 @@ Our method is a two-stage training, first training the teacher model, then train
 Step-by-step training baseline_cl_t1.py, baseline_cl_t2.py and baseline_cl_t3.py to get three teacher models. When training the second and third teacher models, load the optimal parameters of the previously trained teacher model into the files.
 
 Here is the pretrained weight of the teacher models. “t1.py, t2.py, t3.py” is used for FGSC-23, “dota_t1.py, dota_t2.py, dota_t3.py”is used for DOTA.
+
 baidu link: https://pan.baidu.com/s/1b6uYSEYAmmGschm4MW7X3A passward: 4ifv
 
 
