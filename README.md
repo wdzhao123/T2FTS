@@ -48,3 +48,13 @@ You can choose whether to initialize the network model with the optimal paramete
 - `ClassAwareSampler.py`: initial sampler.
 - `resnet50.py`: defines the model.
 - `baseline_cl_s_weight.py, dota_baseline_cl_s_weight.py`: the entry point for training.
+
+
+If our paper can bring you some help, please cite it:
+- `@article{zhao2022teaching,
+  title={Teaching Teachers First and Then Student: Hierarchical Distillation to Improve Long-Tailed Object Recognition in Aerial Images},
+  author={Zhao, Wenda and Liu, Jiani and Liu, Yu and Zhao, Fan and He, You and Lu, Huchuan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2022},
+  publisher={IEEE}
+}`
