@@ -51,7 +51,7 @@ You can choose whether to initialize the network model with the optimal paramete
 
 
 If our paper can bring you some help, please cite it:
-`@article{zhao2022teaching,
+> @article{zhao2022teaching,
  
  title={Teaching Teachers First and Then Student: Hierarchical Distillation to Improve Long-Tailed Object Recognition in Aerial Images},
  
@@ -62,4 +62,4 @@ If our paper can bring you some help, please cite it:
  year={2022},
 
  publisher={IEEE}
-}`
+}
